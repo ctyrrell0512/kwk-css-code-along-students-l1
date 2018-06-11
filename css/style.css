@@ -1,1 +1,15 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color:lightgreen;
+  
+}
+
+h3{
+  font-size: 300%;
+  color:purple;
+  text-shadow: 5px 2pxlightpurple;
+}
+
+div {
+  border-style:dotted;
+}
